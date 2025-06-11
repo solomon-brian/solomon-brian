@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Solomon Brian
+- 👋 Hi, I’m Solomon Brian.
 - 👀 I’m interested in building immersive, full-stack web experiences that fuse creative frontend design with robust backend logic.
 - 🌱 I’m currently focused on advanced Python web applications, modern JavaScript frameworks, and leveraging AI APIs to create unique user interactions.
 - 💞️ I’m open to collaborating on innovative projects that challenge the boundaries between technology and user experience.
